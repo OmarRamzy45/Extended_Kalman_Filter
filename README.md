@@ -8,5 +8,6 @@ Used Equations:
 
 Simulation:
 
-https://user-images.githubusercontent.com/100040470/191867516-aaa079d9-8c95-40ed-9e8c-6b5efb64492e.mp4
+https://user-images.githubusercontent.com/100040470/191868647-d1aa2efc-dd0d-4c38-8e92-e4a6cd3020af.mp4
+
 
